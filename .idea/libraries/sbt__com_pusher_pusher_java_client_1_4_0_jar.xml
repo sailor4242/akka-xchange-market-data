@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.pusher:pusher-java-client:1.4.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.pusher/pusher-java-client/jars/pusher-java-client-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.pusher/pusher-java-client/srcs/pusher-java-client-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

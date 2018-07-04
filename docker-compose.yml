@@ -1,0 +1,6 @@
+version: "3.0"
+services:
+  akka-xchange:
+    build: ./akka-xchange/target/docker/stage
+    ports:
+      -8080:8080

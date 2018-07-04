@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.knowm.xchange:xchange-bitmex:4.3.3:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.knowm.xchange/xchange-bitmex/jars/xchange-bitmex-4.3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.knowm.xchange/xchange-bitmex/srcs/xchange-bitmex-4.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
