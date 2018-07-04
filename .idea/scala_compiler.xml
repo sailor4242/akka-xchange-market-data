@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="akka-xchange-data_5889">
-      <option name="implicitConversions" value="true" />
-    </profile>
-    <profile name="sbt 2" modules="akka-xchange-data,akka-xchange-market-data,akka-xchange" />
-  </component>
-</project>
