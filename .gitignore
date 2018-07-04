@@ -14,10 +14,7 @@ project/plugins/project/
 .scala_dependencies
 .project
 .classpath
-*/.idea
-
-# Sublime
-*.sublime-workspace
+.idea
 
 .DS_store
 */.DS_store
